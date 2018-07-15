@@ -1,0 +1,34 @@
+{
+  "name": "bio-me",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "createjs": "^1.0.1",
+    "createjs-module": "^0.8.3",
+    "jquery": "^3.3.1",
+    "latest-createjs": "^1.0.24",
+    "radium": "^0.22.0",
+    "react": "^16.4.1",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-animations": "^1.0.0",
+    "react-bootstrap": "^0.32.1",
+    "react-css-transition": "^0.7.4",
+    "react-dom": "^16.4.1",
+    "react-native": "^0.53.0",
+    "react-native-deck-swiper": "^1.4.8",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0",
+    "react-swipe-card": "^0.1.4",
+    "react-typewriter": "^0.4.1",
+    "react-typing": "^1.0.0",
+    "react-typist": "^2.0.4",
+    "reactstrap": "^6.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
